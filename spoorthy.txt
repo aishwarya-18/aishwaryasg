@@ -1,3 +1,7 @@
 hi everyone!
 how are you all??
+<<<<<<< HEAD
 how's it going??
+=======
+asdfgbnm
+>>>>>>> b36c14bbafa25639db3c699cf7abfbb850d9d11c
