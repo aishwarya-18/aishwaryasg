@@ -1,2 +1,8 @@
 hi aish! how are you!.
+<<<<<<< HEAD
 edited by aishwarya
+=======
+i will be doing the changes!!!!!!
+alllllllll
+usersss
+>>>>>>> origin/master
